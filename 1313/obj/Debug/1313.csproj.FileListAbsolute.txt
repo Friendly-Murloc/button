@@ -1,0 +1,21 @@
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\bin\Debug\1313.exe.config
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\bin\Debug\1313.exe
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\bin\Debug\1313.pdb
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\obj\Debug\1313.csprojResolveAssemblyReference.cache
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\obj\Debug\_1313.Form1.resources
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\obj\Debug\_1313.Properties.Resources.resources
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\obj\Debug\1313.csproj.GenerateResource.Cache
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\obj\Debug\1313.exe
+c:\users\yoshono\documents\visual studio 2015\Projects\1313\1313\obj\Debug\1313.pdb
+F:\1313\1313\bin\Debug\1313.exe.config
+F:\1313\1313\obj\Debug\1313.exe
+F:\1313\1313\obj\Debug\1313.pdb
+F:\1313\1313\bin\Debug\1313.exe
+F:\1313\1313\bin\Debug\1313.pdb
+F:\1313\1313\obj\Debug\1313.csprojResolveAssemblyReference.cache
+F:\1313\1313\obj\Debug\_1313.Form1.resources
+F:\1313\1313\obj\Debug\_1313.Properties.Resources.resources
+F:\1313\1313\obj\Debug\1313.csproj.GenerateResource.Cache
+C:\Users\user12\Desktop\1313\1313\bin\Debug\1313.exe.config
+C:\Users\user12\Desktop\1313\1313\obj\Debug\1313.exe
+C:\Users\user12\Desktop\1313\1313\obj\Debug\1313.pdb
